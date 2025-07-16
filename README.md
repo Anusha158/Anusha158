@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anusha Radhakrishnan Iyer!
 
-🎓 **Aspiring Data Scientist | SQL & Python Enthusiast | Power BI Developer**
+🎓 **Data Analyst|Budding Data Scientist | SQL & Python Enthusiast | Power BI Developer**
 
 I'm a data-driven problem solver with a strong foundation in machine learning, time series analysis, and statistical modeling. With 5 years of professional experience as Data Analyst, I've supported mission-critical analytics systems and am now transitioning into data science through the Data Science Certification at the University of Washington.
 
